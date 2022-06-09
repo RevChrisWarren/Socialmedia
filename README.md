@@ -6,5 +6,6 @@
 
 ## The urls lead to screencastify videos showing the funstionality of the app
 
-https://watch.screencastify.com/v/1ANJEGmZEes7JHMTVtis
-https://watch.screencastify.com/v/fur1vrd5LMu5Paulkoph
+- https://watch.screencastify.com/v/1ANJEGmZEes7JHMTVtis
+- https://watch.screencastify.com/v/I5iV5XYpZEgTYUwI2UwW
+
